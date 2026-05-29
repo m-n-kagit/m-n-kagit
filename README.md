@@ -1,4 +1,4 @@
-# Hi 👋, I'm m-n-kagit
+# Hi 👋, I'm Mohit Sharma
 
 Welcome to my GitHub profile!
 
@@ -6,9 +6,9 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 💻 Passionate about software development, open-source, and continuous learning.
+- 💻 Passionate about software development, Artificial Intelligence and Machine Learning, open-source, and continuous learning.
 - 🌱 Currently exploring new tech and growing my skills.
-- 📫 How to reach me: [Your Email] or via [LinkedIn](#) (update the links!).
+- 📫 How to reach me: mohit.sharma.dev007@gmail.com or via [LinkedIn](#) (update the links!).
 
 ---
 
@@ -31,22 +31,6 @@ Welcome to my GitHub profile!
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-n-kagit&show_icons=true&theme=github_dark" alt="m-n-kagit's stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-n-kagit&layout=compact&theme=github_dark" alt="m-n-kagit's languages" height="160"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- [Twitter](#)
-- [Personal Site/Blog](#)
 
 ---
 
